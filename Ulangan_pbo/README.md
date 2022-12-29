@@ -1,6 +1,9 @@
-# UAS_PBO
+# Ulangan_PBO
 
-Nama: Sultan Choirullah Rafi Anggraris
-NIM: 21051214010
+Sultan Choirullah Rafi Anggraris
+
+21051214010
+
 Universitas Negeri Surabaya
-Kelas: S1 Sistem Informasi/2021 B
+
+S1 Sistem Informasi/2021 B
